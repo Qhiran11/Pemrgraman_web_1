@@ -1,0 +1,21 @@
+.login {
+    margin: auto;
+    background-color: rgb(114, 227, 131);
+    border-collapse: collapse;
+
+    
+    text-align: justify;
+}
+th, td {
+    padding: 10px;
+    border : none;
+}
+
+.web_style {
+    background-color: cadetblue;
+}
+
+.input1 {
+
+    background-color: cadetblue;
+}
